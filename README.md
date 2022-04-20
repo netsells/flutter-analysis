@@ -9,13 +9,8 @@ This package provides lint rules for Dart and Flutter which are used at [Netsell
 To use the lints, add a dependency in your `pubspec.yaml`:
 
 ```yaml
-# If you use `package:netsells_flutter_analysis/netsells_flutter_analysis.dart`, add a normal dependency.
-dependencies:
-  netsells_flutter_analysis: ^1.0.0
-
-# Or, if you just want `analysis_options.yaml`, it can be a dev dependency.
 dev_dependencies:
-  netsells_flutter_analysis: ^1.0.0
+  netsells_flutter_analysis: ^2.0.0
 ```
 
 Then, add an include in `analysis_options.yaml`:
@@ -27,7 +22,7 @@ include: package:netsells_flutter_analysis/analysis_options.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:netsells_flutter_analysis/analysis_options.1.0.0.yaml
+include: package:netsells_flutter_analysis/analysis_options.2.0.0.yaml
 ```
 
 ## Suppressing Lints

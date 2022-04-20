@@ -9,4 +9,5 @@ library netsells_flutter_analysis;
 /// there are times where one or more futures are intentionally not awaited.
 /// This function may be used to ignore a particular future. It silences the
 /// `unawaited_futures` lint.
+// ignore: avoid-unused-parameters
 void unawaited(Future<void>? future) {}
