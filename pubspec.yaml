@@ -1,5 +1,5 @@
 name: netsells_flutter_analysis
-version: 2.0.0
+version: 2.1.0
 description: Static analysis rules for Dart and Flutter used at Netsells
 repository: https://github.com/netsells/flutter-analysis
 issue_tracker: https://github.com/netsells/flutter-analysis

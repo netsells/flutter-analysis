@@ -1,3 +1,7 @@
+# 2.1.0
+
+ - Remove requirement for public member API docs
+
 # 2.0.0
 
  - Add [Dart Code Metrics](https://dartcodemetrics.dev)
