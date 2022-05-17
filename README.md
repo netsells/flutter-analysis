@@ -10,7 +10,7 @@ To use the lints, add a dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  netsells_flutter_analysis: ^2.1.0
+  netsells_flutter_analysis: ^3.0.0
 ```
 
 Then, add an include in `analysis_options.yaml`:
@@ -22,7 +22,7 @@ include: package:netsells_flutter_analysis/analysis_options.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:netsells_flutter_analysis/analysis_options.2.1.0.yaml
+include: package:netsells_flutter_analysis/analysis_options.3.0.0.yaml
 ```
 
 ## Suppressing Lints
