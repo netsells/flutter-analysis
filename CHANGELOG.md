@@ -1,7 +1,17 @@
+# 3.1.0
+
+- Add the following lints:
+  - `depend_on_referenced_packages`
+  - `no_leading_underscores_for_library_prefixes`
+  - `no_leading_underscores_for_local_identifiers`
+  - `unnecessary_constructor_name`
+  - `unnecessary_late`
+- Update README
+
 # 3.0.0
 
 - BREAKING: Requires Dart 2.17
-- Add `use_super_paramters` lint rule
+- Add `use_super_parameters` lint rule
 
 # 2.1.0
 
