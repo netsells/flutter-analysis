@@ -51,14 +51,3 @@ class A {}
 
 class B {}
 ```
-
-### Project Level
-
-To surpress a specific lint rule for an entire project, modify `analysis_options.yaml`:
-
-```yaml
-include: package:netsells_flutter_analysis/analysis_options.yaml
-linter:
-  rules:
-    public_member_api_docs: false
-```
