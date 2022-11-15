@@ -1,3 +1,7 @@
+# 3.2.0
+
+- Upgrade `dart_code_metrics` dependency
+
 # 3.1.0
 
 - Add the following lints:
