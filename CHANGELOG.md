@@ -1,3 +1,8 @@
+# 4.0.0
+
+- Upgrade to Flutter 3.7.0
+- Upgrade to Dart Code Metrics 5.5.0
+
 # 3.2.0
 
 - Upgrade `dart_code_metrics` dependency
