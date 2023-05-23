@@ -1,3 +1,8 @@
+# 5.0.0
+
+- Upgrade to Flutter 3.10 and Dart 3
+- Remove Dart Code Metrics
+
 # 4.0.0
 
 - Upgrade to Flutter 3.7.0

@@ -10,7 +10,7 @@ To use the lints, add a dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  netsells_flutter_analysis: ^4.0.0
+  netsells_flutter_analysis: ^5.0.0
 ```
 
 Then, add an include in `analysis_options.yaml`:
